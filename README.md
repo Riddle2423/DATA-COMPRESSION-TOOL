@@ -18,3 +18,4 @@ The structure ofthe program typically involves reading input from a file or stri
 Making a program like this teaches us how computers can mimic human logic — noticing patterns, reducing repetition, and storing information more efficiently. It shows how basic human problem-solving ideas can turn into algorithms, and those algorithms can power real-world tools, from file compressors to image processing software.
 
 ******************OUTPUT***************
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/1a87afa2-af57-4161-9612-5a33bf731c52" />
